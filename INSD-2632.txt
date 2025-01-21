@@ -1,0 +1,1 @@
+QA verified the typo GPB is updated to GBP in the SNEL invoice templet on the Billing Tool. 
